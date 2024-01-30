@@ -8,10 +8,23 @@ https://mlda-eee.github.io/NOVA-2024-PRE-BUILD/
 # Core Values 
 Learn, Apply, Connect
 
+# Words from Current EXCOs and MainComs
+
 # Stories of NTU Academic Year 23/24
-Workshops series
-DLW
-i.equalcare 
-Robomaster competition 
-Optiver Traiding competition
-MLDA apprentice programme
+* Workshops series (LEARNOVA)
+* Lab Tours
+* DEMO Computers (PRONOVA)
+* DLW 2024
+* i.equalcare 
+* Robomaster competition 
+* Optiver Traiding competition
+* MLDA apprentice programme
+
+# Shoutout to industries
+* Micron
+* Jane Street
+* TikTok
+
+# Shoutout to faculties
+* Dr Wesley
+* EEE student office
