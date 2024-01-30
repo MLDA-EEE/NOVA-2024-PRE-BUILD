@@ -1,8 +1,5 @@
 # NOVA-2024-PRE-BUILD
 
-For easier navigations
-https://mlda-eee.github.io/NOVA-2024-PRE-BUILD/
-
 # Mission and Vision of MLDA@EEE
 
 # Core Values 
