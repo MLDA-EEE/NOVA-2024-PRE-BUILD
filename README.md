@@ -21,6 +21,7 @@ Learn, Apply, Connect
 * Micron
 * Jane Street
 * TikTok
+* Dyson
 
 # Shoutout to faculties
 * Dr Wesley
