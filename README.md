@@ -45,10 +45,6 @@ https://ntumldaeeebnm.wixsite.com/deeplearningweek2024
 ### Engineering Accreditation Board Visit
 ### MLDA apprentice programme
 
-# Words from Current MainComs
-
-# Words from Upcoming MainComs
-
 # Shoutout to industries
 ## Micron
 https://sg.micron.com/
@@ -69,3 +65,13 @@ DLW sponsor
 # Shoutout to faculties
 * Dr Wesley
 * EEE student office
+
+# MLDA@EEE MainComs 23/24
+Take this moment to appreciate the contributions
+
+# Words from President 23/24
+
+# MLDA@EEE MainComs 24/25
+Put our hands together to welcome the new batch of main Committees (as of XX/XX, more to come !)
+
+# Words from President 24/25
