@@ -1,9 +1,13 @@
 https://mlda-eee.github.io/NOVA-2024-PRE-BUILD/
+# MLDA@EEE
+The Machine Learning and Data Analytics lab (MLDA@EEE) is a new platform that empowers EEE/IEM students to pursue the application of Machine Learning (ML), Data Analytics (DA), and Artificial Intelligence (AI) in their various established EEE disciplines. 
 
-# Mission and Vision of MLDA@EEE
+# Objective
+Since its launch in March 2019, the lab seeks to consolidate all school’s Artificial Intelligence activities under one roof, while providing students with an avenue to learn, research, and apply Machine Learning, Data Analytics, and Artificial Intelligence skills and knowledge to both academia and the industry. 
 
-# Core Values 
-Learn, Apply, Connect
+**Our Dimensions - Learn, Apply, Connect**  
+
+To be the leading AI training and research facility for EEE students, staff, and faculty.
 
 # Words from Current EXCOs and MainComs
 
