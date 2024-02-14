@@ -33,6 +33,8 @@ MLDA@EEE had worked together with the organising team from Garage@EEE Escendo 20
 ## APPLY🛠️
 ### DEMO Computers (PRONOVA)
 ### DLW 2024
+https://ntumldaeeebnm.wixsite.com/deeplearningweek2024
+
 ### i.equalcare 
 ### Robomaster competition 
 ### Optiver Traiding competition
@@ -48,10 +50,21 @@ MLDA@EEE had worked together with the organising team from Garage@EEE Escendo 20
 # Words from Upcoming MainComs
 
 # Shoutout to industries
-* Micron
-* Jane Street
-* TikTok
-* Dyson
+## Micron
+https://sg.micron.com/
+DLW Platinum sponsor
+
+## Jane Street
+https://www.janestreet.com/
+DLW sponsor
+
+## TikTok
+https://www.tiktok.com/
+DLW sponsor
+
+## AI Singapore 
+https://aisingapore.org/
+DLW sponsor
 
 # Shoutout to faculties
 * Dr Wesley
