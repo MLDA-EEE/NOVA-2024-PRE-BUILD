@@ -1,4 +1,4 @@
-# NOVA-2024-PRE-BUILD
+https://mlda-eee.github.io/NOVA-2024-PRE-BUILD/
 
 # Mission and Vision of MLDA@EEE
 
