@@ -14,7 +14,7 @@ To be the leading AI training and research facility for EEE students, staff, and
 ### Workshops series (LEARNOVA)
 LEARNOVA is a workshop series dedicated to bring fresh blood into the world of Machine Learning and Data Analytics. This structured workshop series is meant to be build a solid foundation for the newcomers as we groom them to be an individual with not just technical skills, but also soft skills to communicate with others. 
 
-<IMAGEs>
+IMAGES
 
 LEARNOVA workshop list
 * Workshop name
